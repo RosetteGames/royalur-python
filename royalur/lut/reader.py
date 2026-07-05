@@ -7,7 +7,8 @@ import numpy as np
 
 class Lut:
     """
-    This class provides a way to look up values in a look-up table (LUT).
+    This class provides a way to look up values in a
+    Royal Game of Ur look-up table (LUT).
     """
 
     def __init__(
@@ -18,8 +19,6 @@ class Lut:
     ):
         """
         Create a new instance of the Lut class.
-
-        :param lut: The look-up table to use.
         """
         self._keys = keys
         self._values = values

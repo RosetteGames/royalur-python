@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="RoyalUr-Python Logo" width="485" src="https://raw.githubusercontent.com/RoyalUr/RoyalUr-Python/master/docs/res/banner.png" />
+  <img alt="royalur-python Logo" width="485" src="https://raw.githubusercontent.com/RosetteGames/royalur-python/master/docs/res/banner.png" />
 </p>
 
 This library provides a Python API for the play and analysis of games of **The Royal Game of Ur**!
@@ -15,7 +15,7 @@ which was excavated by Sir Leonard Woolley in the 1930s.
 It is currently on display at the British Museum!
 
 <p align="center">
-  <img alt="British Museum game board excavated by Sir Leonard Woolley" width="610" src="https://raw.githubusercontent.com/RoyalUr/RoyalUr-Python/master/docs/res/bm_board.png" />
+  <img alt="British Museum game board excavated by Sir Leonard Woolley" width="610" src="https://raw.githubusercontent.com/RosetteGames/royalur-python/master/docs/res/bm_board.png" />
 </p>
 <p align="center">
   Photo of an excavated board of the Royal Game of Ur that is dated to 2500 BC.<br/>
@@ -26,7 +26,7 @@ It is currently on display at the British Museum!
 
 * [Read the documentation.](https://royalur.github.io/RoyalUrPython/)
 
-* Prefer Java to Python? [Check out RoyalUr-Java.](https://github.com/RoyalUr/RoyalUr-Java)
+* Prefer Java to Python? [Check out royalur-java.](https://github.com/RosetteGames/royalur-java)
 
 * [Play The Royal Game of Ur on RoyalUr.net.](https://royalur.net/)
 
@@ -34,7 +34,7 @@ It is currently on display at the British Museum!
 
 
 # 🔧 Installation
-The RoyalUr-Python package is available to be installed through pip:
+The royalur-python package is available to be installed through pip:
 ```bash
 pip install royalur
 ```
@@ -113,7 +113,7 @@ created and used instead (e.g., for a new path around the board).
 - Aseb.
 
 <p align="center">
-  <img alt="Supported Board Shapes" width="241" src="https://raw.githubusercontent.com/RoyalUr/RoyalUr-Python/master/docs/res/board_shapes.png" />
+  <img alt="Supported Board Shapes" width="241" src="https://raw.githubusercontent.com/RosetteGames/royalur-python/master/docs/res/board_shapes.png" />
 </p>
 
 **Paths:**
@@ -124,7 +124,7 @@ created and used instead (e.g., for a new path around the board).
 - Aseb path proposed by Murray.
 
 <p align="center">
-  <img alt="Supported Paths" width="500" src="https://raw.githubusercontent.com/RoyalUr/RoyalUr-Python/master/docs/res/paths.png" />
+  <img alt="Supported Paths" width="500" src="https://raw.githubusercontent.com/RosetteGames/royalur-python/master/docs/res/paths.png" />
 </p>
 
 **Dice:**

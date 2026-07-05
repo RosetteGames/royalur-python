@@ -1,3 +1,3 @@
 """
-This package contains tests for RoyalUr-Python.
+This package contains tests for royalur-python.
 """
